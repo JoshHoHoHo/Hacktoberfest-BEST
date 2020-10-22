@@ -39,6 +39,12 @@ while True:
     if each_word == "frustrated":
       feelings_list.append("frustrated")
       encouragement_list.append("stop what you are doing and calm down")
+    if each_word == "calm":
+      feelings_list.append("calm")
+      encouragement_list.append("continue to be at peace")
+      
+      
+    
       counter += 1  
       
     if each_word == "annoyed":
